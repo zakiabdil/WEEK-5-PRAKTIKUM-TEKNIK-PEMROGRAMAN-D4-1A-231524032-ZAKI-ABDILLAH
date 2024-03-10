@@ -1,0 +1,35 @@
+Manager
+Alfamart
+Budi Rodrigeys
+50000.0
+2080.0
+24.04
+200000.0
+1000000.0
+SalesAssociate
+Alfamart
+Adit Gusti
+20800.0
+2600.0
+8.0
+1.5
+SalesAssociate
+Alfamart
+Budi Asep
+24960.0
+3120.0
+8.0
+1.5
+SalesAssociate
+Alfamart
+Asep Gatot
+29120.0
+3640.0
+8.0
+1.5
+Janitor
+Alfamart
+Budi Adipura
+0.0
+4070.0
+5.0

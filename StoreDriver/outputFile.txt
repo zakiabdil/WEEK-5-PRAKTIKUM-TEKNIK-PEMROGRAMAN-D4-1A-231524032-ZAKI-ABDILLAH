@@ -1,0 +1,51 @@
+******************************************************
+Number of employees working as MANAGER are: 1
+******************************************************
+1. Manager Details:
+Store Details: Alfamart
+Employee Name: Budi Rodrigeys
+Base Pay: $50000.0
+Number of Hours worked: 2080.0hrs
+Payment Rate per hour: $24.04/hr
+Total Sales in store: $1000000.0
+Sales done: $200000.0
+Percentage of sales done: 20.00%
+Gross Payment: $115003.7
+Remaining store revenue: $707746.5040000001
+******************************************************
+Number of employees working as SALES ASSOCIATES are: 3
+******************************************************
+Store Details: Alfamart
+Employee Name: Adit Gusti
+Base Pay: $20800.0
+Number of Hours worked: 2600.0hrs
+Payment Rate per hour: $8.0/hr
+Sales Rate: 150.0%
+Total commission: $2080.0
+Gross Payment: $43680.0
+Store Details: Alfamart
+Employee Name: Budi Asep
+Base Pay: $24960.0
+Number of Hours worked: 3120.0hrs
+Payment Rate per hour: $8.0/hr
+Sales Rate: 150.0%
+Total commission: $2496.0
+Gross Payment: $52416.0
+Store Details: Alfamart
+Employee Name: Asep Gatot
+Base Pay: $29120.0
+Number of Hours worked: 3640.0hrs
+Payment Rate per hour: $8.0/hr
+Sales Rate: 150.0%
+Total commission: $2912.0
+Gross Payment: $61152.0
+******************************************************
+Number of employees working as Janitor are: 1
+******************************************************
+Store Details: Alfamart
+Employee Name: Budi Adipura
+Base Pay: $0.0
+Number of Hours worked: 4070.0hrs
+Payment Rate per hour: $5.0/hr
+
+Gross Payment: $20350.0
